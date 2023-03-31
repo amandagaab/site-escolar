@@ -14,8 +14,19 @@ header{
 .cabecalho-imagem{
     width: 15%;
 }
+
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.escola-imagem{
+    width: 15%;
+}
+
+.escola{
+    background-image: linear-gradient(#FFE7E3,#F48196);
+    color: #ff3d61;
+    display: flex;
 }
